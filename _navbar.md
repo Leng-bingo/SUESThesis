@@ -7,4 +7,3 @@
 - GitHub🚀
 - Links👇
   - [Leng's Blog](http://www.bangbangbangbang.top)
-  - [Magic Tupu](http://learn.bangbangbangbang.top/work/tupu/V1.2.2)

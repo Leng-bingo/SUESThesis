@@ -14,7 +14,7 @@ COMMIT_MESSAGE=$1
 
 # 执行Git命令
 # 拉取最新的远程仓库
-git pull origin main
+# git pull origin main
 
 # 添加所有变更的文件
 git add .
