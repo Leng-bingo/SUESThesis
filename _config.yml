@@ -1,0 +1,4 @@
+include:
+  - _coverpage.md
+  - _navbar.md
+  - _sidebar.md
